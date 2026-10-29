@@ -1,0 +1,378 @@
+{
+  "Majority-Class Baseline": {
+    "classes": [
+      "Drainage Authority",
+      "Electrical Department",
+      "Parks & Community Services",
+      "Public Safety & Enforcement",
+      "Roads & Infrastructure",
+      "Sanitation & Waste Management",
+      "Traffic Department",
+      "Water Supply & Management"
+    ],
+    "matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        12,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        15,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        18,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        12,
+        0,
+        0
+      ]
+    ]
+  },
+  "Multinomial Naive Bayes": {
+    "classes": [
+      "Drainage Authority",
+      "Electrical Department",
+      "Parks & Community Services",
+      "Public Safety & Enforcement",
+      "Roads & Infrastructure",
+      "Sanitation & Waste Management",
+      "Traffic Department",
+      "Water Supply & Management"
+    ],
+    "matrix": [
+      [
+        6,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        12,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        1,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        3,
+        0,
+        10,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        18,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ]
+  },
+  "Logistic Regression": {
+    "classes": [
+      "Drainage Authority",
+      "Electrical Department",
+      "Parks & Community Services",
+      "Public Safety & Enforcement",
+      "Roads & Infrastructure",
+      "Sanitation & Waste Management",
+      "Traffic Department",
+      "Water Supply & Management"
+    ],
+    "matrix": [
+      [
+        6,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        12,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        9,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        18,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ]
+  },
+  "Linear Support Vector Machine": {
+    "classes": [
+      "Drainage Authority",
+      "Electrical Department",
+      "Parks & Community Services",
+      "Public Safety & Enforcement",
+      "Roads & Infrastructure",
+      "Sanitation & Waste Management",
+      "Traffic Department",
+      "Water Supply & Management"
+    ],
+    "matrix": [
+      [
+        6,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        12,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        9,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        18,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ]
+  }
+}

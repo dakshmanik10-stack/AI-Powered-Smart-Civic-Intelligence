@@ -1,0 +1,5 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted F1,Train Time (ms),Pred Time (ms),Train Samples,Test Samples
+Majority-Class Baseline,0.2045,0.0256,0.125,0.0425,0.0695,1.14,0.59,351,88
+Multinomial Naive Bayes,0.875,0.8783,0.8565,0.8587,0.8736,9.4,1.73,351,88
+Logistic Regression,0.875,0.8952,0.8661,0.8655,0.8789,70.48,1.05,351,88
+Linear Support Vector Machine,0.8977,0.9125,0.9018,0.8916,0.9022,29.07,2.27,351,88
